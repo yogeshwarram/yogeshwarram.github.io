@@ -20,11 +20,11 @@ email: yogeshwarram.g@gmail.com
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
-github_username: https://github.com/yogeshwarram/
+github_username: yogeshwarram
 codepen_username: 
 dev_username: 
-linkedin_username: https://www.linkedin.com/in/yogeshwarram-godara-466523184/
-twitter_username: https://twitter.com/0xyogi
+linkedin_username: yogeshwarram-godara-466523184
+twitter_username: 0xyogi
 
 # ABOUT ME SECTION
 # show_aboutme_card:
@@ -32,9 +32,9 @@ twitter_username: https://twitter.com/0xyogi
 # > setting this to false, will omit the About Me section
 show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
-about_me_title: About Me
+about_me_title: whoami
 # about_me_description: This will be displayed under the title.
-about_me_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>. You can also find me on <a class="highlight-link" href="https://jamstackthemes.dev/theme/jekyll-neumorphism/" target="_blank" rel="noreferrer">JAMstack Themes</a> and on <a class="highlight-link" href="https://jekyll-themes.com/neumorphism/" target="_blank" rel="noreferrer">Jekyll Themes</a>.
+about_me_description: Cybersecurity Enthusiastic with a strong interest in ethical hacking, penetration testing, vulnerability analysis, and network security. Hard-working, energetic, personable, and technical-minded individual. Possess Good communication skills. Currently Pursuing OSCP Certification. 
 
 # SKILLS SECTION
 # show_skills_card:
@@ -48,7 +48,7 @@ skills_title: Skills
 # show_timeline_card:
 # > setting this to true, will display the Timeline section
 # > setting this to false, will omit the Timeline section
-show_timeline_card: true
+show_timeline_card: false
 # timeline_title: The will be displayed as the title in the Timeline section
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
@@ -81,8 +81,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>.
-
+contact_description: You can contact me on Twitter, Linkedin, and E-Mail 
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
