@@ -17,11 +17,11 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: Pimpri Chinchwad College of Engineering and Research
-  title-url: q
-  date: Aug 2018 - Present
+- title: airbnb
+  title-url: https://example.com/
+  date: Sep 2019 - Present
   subtitle: Fullstack Developer
-  tags: Computer Engineering
+  tags:
     - tag: React
     - tag: Javascript
     - tag: Ruby
@@ -59,3 +59,4 @@
   date: 2014 - 2017
   subtitle: B.A. Computer Science
   timeline-side: left
+  
